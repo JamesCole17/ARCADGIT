@@ -4,7 +4,7 @@
 000400990202/* System      : HSV - Voucher Tracking and Control                 */
 000500990218/* Date        : February 1999                                      */
 000600990202/********************************************************************/
-000700990202
+000700171107/* Test line Change */
 000800990223             PGM        PARM(&MODE &ORDER &TYPE &CUST)
 000900990218             DCL        VAR(&MODE) TYPE(*CHAR) LEN(1)
 001000990218             DCL        VAR(&ORDER) TYPE(*CHAR) LEN(8)
