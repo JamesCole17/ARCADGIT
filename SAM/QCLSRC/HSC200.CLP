@@ -4,7 +4,7 @@
 /* System      : HSV - Voucher Tracking and Control                 */
 /* Date        : February 1999                                      */
 /********************************************************************/
-/* Test line  */
+/* Test line 22 */
              PGM        PARM(&MODE &ORDER &TYPE &CUST)
              DCL        VAR(&MODE) TYPE(*CHAR) LEN(1)
              DCL        VAR(&ORDER) TYPE(*CHAR) LEN(8)
