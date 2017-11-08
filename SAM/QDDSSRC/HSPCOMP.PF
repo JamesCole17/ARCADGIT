@@ -14,4 +14,4 @@
 001400990115     A            WODES     R               REFFLD(DESC)
 001500990115     A                                      COLHDG('Company Text')
 001600990115     A            WDELT     R               REFFLD(A1)
-001700990115     A                                      COLHDG('Deletion Flag')
+001700180423LVB  A                                      COLHDG('Deletion Flag2')
