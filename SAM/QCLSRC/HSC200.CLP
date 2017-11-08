@@ -5,6 +5,8 @@
 /* Date        : February 1999                                      */
 /********************************************************************/
 /* Test line 22 */
+/* Test line 23 */
+
              PGM        PARM(&MODE &ORDER &TYPE &CUST)
              DCL        VAR(&MODE) TYPE(*CHAR) LEN(1)
              DCL        VAR(&ORDER) TYPE(*CHAR) LEN(8)
