@@ -5,3 +5,4 @@
                   ARTISP    R               REFFLD(ARTIPR)
                   ARTIFA    R               REFFLD(FAMIID)
                   ARTIFB    R               REFFLD(FAMIID)
+                  ARTIFC    R               REFFLD(FAMIID)
