@@ -8,4 +8,5 @@
                   ARTIFC    R               REFFLD(FAMIID)
                   ARTIFD    R               REFFLD(FAMIID)
                   ARTIFE    R               REFFLD(FAMIID)
-LVB               ARTIFF    R               REFFLD(FAMIIF)
+LVB               ARTIFF    R               REFFLD(FAMIID)
+LVB               ARTIFG    R               REFFLD(FAMIID)
