@@ -1,5 +1,5 @@
      H*------------------------------------------------------------------------
-     H* Procedures for UpperCase/LowerCase Strings
+LVB  H* Procedures for UpperCase/LowerCase Strings 2
      H*------------------------------------------------------------------------
      H NoMain
      D* Prototype for exported procedures
