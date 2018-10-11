@@ -7,14 +7,10 @@
                   ARTIFB    R               REFFLD(FAMIID)
                   ARTIFC    R               REFFLD(FAMIID)
                   ARTIFX    R               REFFLD(FAMIID)
-                  ARTIFY    R               REFFLD(FAMIID)
-                  ARTIFQ    R               REFFLD(FAMIID)
-                  ARTIFW    R               REFFLD(FAMIID)
-                  ARTIFF    R               REFFLD(FAMIID)
                   ARTIFG    R               REFFLD(FAMIID)
                   ARTIFH    R               REFFLD(FAMIID)
                   ARTIFI    R               REFFLD(FAMIID)
-                  ARTIFJ    R               REFFLD(FAMIID)
+                  ARTIFL    R               REFFLD(FAMIID)
 
 
 
