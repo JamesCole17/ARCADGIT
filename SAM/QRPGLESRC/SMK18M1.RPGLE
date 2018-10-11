@@ -14,7 +14,7 @@
      H* Param. 2 : String to scan for
      H* Param. 3 : length of string to scan for
      H* Param. 4 (Omissible) : If found : return the first position of the
-     H*                            string
+LVB  H*                            string 2
      H*------------------------------------------------------------------------
      P Str_ScanNonSensitive...
      P                 B                   Export
