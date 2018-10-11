@@ -70,7 +70,7 @@
      C                   When      Str_isLower(e_Str1)
      C                   Eval      e_Str2 = 'All is LowerCase'
      C                   Other
-     C                   Eval      e_Str2 = 'The string is in Mixed Case'
+LVB  C                   Eval      e_Str2 = 'The string is in Mixed Case2'
      C                   Endsl
      C                   Endsr
      C*---------------------------------------
