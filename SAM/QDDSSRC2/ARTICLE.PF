@@ -10,6 +10,7 @@
                   ARTIFL    R               REFFLD(FAMIID)
                   ARTIFP    R               REFFLD(FAMIID)
                   ARTIFH    R               REFFLD(FAMIID)
+                  ARTIFT    R               REFFLD(FAMIID)
 
 
 
