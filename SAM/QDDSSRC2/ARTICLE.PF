@@ -14,5 +14,5 @@
                   ARTIFX    R               REFFLD(FAMIID)
                   ARTIFW    R               REFFLD(FAMIID)
                   ARTIAC    R               REFFLD(FAMIID)
-
+                  CMCUST    R               REFFLD(FAMIID)
 
