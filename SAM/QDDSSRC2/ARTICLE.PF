@@ -15,4 +15,5 @@
                   ARTIFW    R               REFFLD(FAMIID)
                   ARTIAC    R               REFFLD(FAMIID)
                   CMCUST    R               REFFLD(FAMIID)
+                  CMCUSX    R               REFFLD(FAMIID)
 
