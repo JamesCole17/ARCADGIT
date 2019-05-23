@@ -17,3 +17,4 @@
                   CMCUST    R               REFFLD(FAMIID)
                   CMCUSX    R               REFFLD(FAMIID)
                   CMCUSY    R               REFFLD(FAMIID)
+                  CMCUSW    R               REFFLD(FAMIID)
