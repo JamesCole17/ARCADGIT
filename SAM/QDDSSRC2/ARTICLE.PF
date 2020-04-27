@@ -4,3 +4,4 @@
                   ARTIDE    R
                   ARTISP    R               REFFLD(ARTIPR)
                   ARTIFA    R               REFFLD(FAMIID)
+                  ARTIFX    R               REFFLD(FAMIID)
